@@ -1,0 +1,6 @@
+C:\GitHub\CSharpOOP\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\GitHub\CSharpOOP\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\GitHub\CSharpOOP\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+C:\GitHub\CSharpOOP\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharpOOP\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\GitHub\CSharpOOP\ACM\ACM.BL\obj\Debug\ACM.BL.pdb

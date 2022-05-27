@@ -1,0 +1,13 @@
+﻿@model IQueryable<Product>
+
+@{
+}
+
+@foreach( var p in Model )
+{
+    <div>
+        <h3>@p.ProductName</h3>
+        <p>@p.ProductDescription</p>
+        <h4>@p.CurrentPrice.Value.ToString("c")</h4>
+    </div>
+}
