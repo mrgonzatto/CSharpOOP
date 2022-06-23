@@ -1,0 +1,10 @@
+C:\GitHub\CSharpOOP\ACM\Acme.Common\bin\Debug\netcoreapp3.1\Acme.Common.deps.json
+C:\GitHub\CSharpOOP\ACM\Acme.Common\bin\Debug\netcoreapp3.1\Acme.Common.dll
+C:\GitHub\CSharpOOP\ACM\Acme.Common\bin\Debug\netcoreapp3.1\Acme.Common.pdb
+C:\GitHub\CSharpOOP\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.csproj.AssemblyReference.cache
+C:\GitHub\CSharpOOP\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharpOOP\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.AssemblyInfoInputs.cache
+C:\GitHub\CSharpOOP\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.AssemblyInfo.cs
+C:\GitHub\CSharpOOP\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharpOOP\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.dll
+C:\GitHub\CSharpOOP\ACM\Acme.Common\obj\Debug\netcoreapp3.1\Acme.Common.pdb

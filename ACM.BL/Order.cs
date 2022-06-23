@@ -33,7 +33,6 @@ namespace ACM.BL
             return $"{OrderDate.Value.Date} ({OrderId})";
         }
 
-
         public bool Validate()
         {
             var isValid = true;
@@ -42,7 +41,5 @@ namespace ACM.BL
 
             return isValid;
         }
-
-
     }
 }

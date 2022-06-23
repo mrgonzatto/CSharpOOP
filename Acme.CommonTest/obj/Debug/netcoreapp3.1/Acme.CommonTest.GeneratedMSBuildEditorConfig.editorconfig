@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Acme.CommonTest
+build_property.ProjectDir = C:\GitHub\CSharpOOP\ACM\Acme.CommonTest\

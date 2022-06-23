@@ -20,9 +20,16 @@ namespace ACM.BL
         public decimal? CurrentPrice { get; set; } //? = nullable type possibilita valor nulo
         public string ProductDescription { get; set; }
         public int ProductId { get; private set; }
-        public string ProductName { get; set; }
 
-        //----------
+        private string _productName;
+
+        public string ProductName
+        {
+            get { return _productName; }
+            set { _productName = value; }
+        }
+
+        //----------        
 
         public override string ToString() => ProductName;
 
@@ -38,7 +45,6 @@ namespace ACM.BL
             if(CurrentPrice == null) isValid = false;
 
             return isValid;
-        }
-        
+        }                
     }
 }

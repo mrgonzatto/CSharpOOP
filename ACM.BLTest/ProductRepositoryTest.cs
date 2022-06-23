@@ -33,8 +33,7 @@ namespace ACM.BLTest
         {
             //-- Arrange
             var productRepository = new ProductRepository();
-            var updatedProduct = new Product(2)
-            {
+            var updatedProduct = new Product(2) {
                 CurrentPrice = 18M,
                 ProductDescription = "Pequeno conjunto com 4 flores de girassol amarelas",
                 ProductName = "Flor de Girassol",
@@ -46,7 +45,6 @@ namespace ACM.BLTest
 
             //-- Assert
             Assert.AreEqual(true, actual);
-
         }
 
         [TestMethod()]

@@ -29,6 +29,12 @@ namespace ACM.BL
             Console.WriteLine($"Object: {myObject.ToString()}");
             Console.WriteLine($"Product: {product.ToString()}");
 
+            Console.WriteLine($"Product: {product.EntityState.ToString()}");
+            Console.WriteLine($"Product: {product.HasChanges}");
+            Console.WriteLine($"Product: {product.IsValid}");
+
+
+
             return product;
         }
 
@@ -52,12 +58,9 @@ namespace ACM.BL
                         // Update
                     }
                 }
-                else 
-                {
-                    success = false;
-                }
+                else                 
+                    success = false;                
             }
-
             return success;
         }
     }
